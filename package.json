@@ -1,0 +1,8 @@
+{
+  "name": "msw-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "msw": "^2.2.1"
+  }
+}
